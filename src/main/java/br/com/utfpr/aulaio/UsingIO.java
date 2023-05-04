@@ -31,7 +31,7 @@ public class UsingIO {
     }
 
     public static void main(String[] args) {
-
+        System.out.println("teste vscode");
         new UsingIO();
 
     }
